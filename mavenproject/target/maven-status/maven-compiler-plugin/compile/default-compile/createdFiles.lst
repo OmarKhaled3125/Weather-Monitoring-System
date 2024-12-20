@@ -1,0 +1,13 @@
+com\mycompany\mavenproject1\TemperatureData.class
+com\mycompany\mavenproject1\WeatherDataFetcher.class
+com\mycompany\mavenproject1\HumidityData.class
+com\mycompany\mavenproject1\WeatherDataFactory.class
+com\mycompany\mavenproject1\WeatherAlertFactory.class
+com\mycompany\mavenproject1\WindSpeedData.class
+com\mycompany\mavenproject1\ClearAlert.class
+com\mycompany\mavenproject1\SnowAlert.class
+com\mycompany\mavenproject1\UserPreferencesManager.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\mavenproject1\RainAlert.class
+com\mycompany\mavenproject1\WeatherData.class
+com\mycompany\mavenproject1\WeatherAlert.class
